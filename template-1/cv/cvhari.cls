@@ -16,7 +16,7 @@
 \definecolor{ElectricViolet}{HTML}{9F00FF}
 \definecolor{Black}{HTML}{000000}
 
-% % Change the colour below to one of the above values.
+% % Change the color below to one of the above values.
 \colorlet{accent}{DodgerBlue} %Black!90 for print
 \colorlet{body}{Black!80}
 
