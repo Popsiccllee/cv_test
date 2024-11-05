@@ -11,7 +11,6 @@ Welcome to **Free LaTeX Templates for CV and Motivation Letter**! 🎉 This repo
 - [Templates Included](#templates-included)
 - [Quick Start](#quick-start)
 - [Usage Instructions](#usage-instructions)
-- [Customization Guide](#customization-guide)
 - [Contributions](#contributions)
 - [License](#license)
 - [Contact](#contact)
@@ -45,13 +44,13 @@ Follow these steps to begin using the templates:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/latex-templates-cv-motivation.git
+   git clone https://github.com/amirzenoozi/latex-cv-templates.git
    ```
    
 2. **Navigate to the desired template**:
    Each template has its own folder with all necessary files and preview images.
 
-3. **Open the `.tex` file** in a LaTeX editor (e.g., [Overleaf](https://www.overleaf.com/), [Texmaker](https://www.xm1math.net/texmaker/), or [VS Code with LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)).
+3. **Open the `.tex` file** in a LaTeX editor (e.g., [Overleaf](https://www.overleaf.com/), [Texmaker](https://www.xm1math.net/texmaker/).
 
 4. **Compile the document** and export it as a PDF to preview and download your CV or letter.
 
@@ -69,22 +68,10 @@ Each template is designed to be intuitive and easy to use. Here’s how to custo
 ### Example
 
 To create your CV using the Minimalist CV Template:
-1. Open `minimalist-cv.tex` in your LaTeX editor.
+1. Open `main.tex` in your LaTeX editor.
 2. Fill in each section with your personal details (work experience, education, skills, etc.).
 3. Compile to PDF, review, and download your polished CV!
 
----
-
-## 🎨 Customization Guide
-
-These templates are fully customizable. Here’s how you can tailor them to fit your needs:
-
-- **Fonts**: Change fonts to match your personal style or make your document stand out.
-- **Colors**: Adjust colors for headers, section titles, or accents.
-- **Sections**: Add or remove sections like "Languages", "Projects", or "Interests" to highlight specific information.
-- **Layout**: Modify the arrangement, spacing, and margins for a unique look.
-
-*Helpful Tip*: Each template file contains comments explaining key parts of the code to make customization easier, even for beginners.
 
 ---
 
@@ -110,7 +97,7 @@ This project is licensed under the MIT License. You’re free to use, modify, an
 
 ## 📧 Contact
 
-For questions, suggestions, or feedback, feel free to reach out via email: [your-email@example.com](mailto:your-email@example.com).
+For questions, suggestions, or feedback, feel free to create an issue.
 
 We hope these templates help you create a polished, professional CV and motivation letter that makes a strong impression. Best of luck with your applications! ✨
 
